@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57ECFD00-5334-4F9F-B8E0-41DA9D9012AE}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\shahnawaz\\source\\repos\\mango\\mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57ECFD00-5334-4F9F-B8E0-41DA9D9012AE}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2965E59E-DE2F-4260-A9F9-6DFE98C413ED}|Mango.Web\\Mango.Web.csproj|c:\\users\\shahnawaz\\source\\repos\\mango\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2965E59E-DE2F-4260-A9F9-6DFE98C413ED}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2965E59E-DE2F-4260-A9F9-6DFE98C413ED}|Mango.Web\\Mango.Web.csproj|c:\\users\\shahnawaz\\source\\repos\\mango\\mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2965E59E-DE2F-4260-A9F9-6DFE98C413ED}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2965E59E-DE2F-4260-A9F9-6DFE98C413ED}|Mango.Web\\Mango.Web.csproj|c:\\users\\shahnawaz\\source\\repos\\mango\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2965E59E-DE2F-4260-A9F9-6DFE98C413ED}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Web\\appsettings.json",
+              "RelativeToolTip": "Mango.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T07:19:06.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T07:13:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:23:18.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:23:14.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
