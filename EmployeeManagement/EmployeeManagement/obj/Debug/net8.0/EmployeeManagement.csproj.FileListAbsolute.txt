@@ -1,0 +1,8 @@
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\Shahnawaz\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.RazorAssemblyInfo.cs
