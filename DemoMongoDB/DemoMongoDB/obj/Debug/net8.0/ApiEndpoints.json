@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "DemoMongoDB.Controllers.WeatherForecastController",
+    "Method": "Add",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weather",
+        "Type": "DemoMongoDB.Entities.WeatherForecast",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoMongoDB.Controllers.WeatherForecastController",
+    "Method": "Update",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weather",
+        "Type": "DemoMongoDB.Entities.WeatherForecast",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoMongoDB.Controllers.WeatherForecastController",
+    "Method": "Delete",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoMongoDB.Controllers.WeatherForecastController",
+    "Method": "GetList",
+    "RelativePath": "WeatherForecast/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoMongoDB.Controllers.WeatherForecastController",
+    "Method": "GetSingleG",
+    "RelativePath": "WeatherForecast/single",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

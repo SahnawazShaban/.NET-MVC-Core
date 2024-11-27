@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|c:\\users\\shahnawaz\\source\\repos\\demomongodb\\demomongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|solutionrelative:demomongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|c:\\users\\shahnawaz\\source\\repos\\demomongodb\\demomongodb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|solutionrelative:demomongodb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|c:\\users\\shahnawaz\\source\\repos\\demomongodb\\demomongodb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|solutionrelative:demomongodb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|c:\\users\\shahnawaz\\source\\repos\\demomongodb\\demomongodb\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|solutionrelative:demomongodb\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|c:\\users\\shahnawaz\\source\\repos\\demomongodb\\demomongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E648FC5-F757-4FC1-AF0B-7B9C7AA0F535}|DemoMongoDB\\DemoMongoDB.csproj|solutionrelative:demomongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "DemoMongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Program.cs",
+              "RelativeToolTip": "DemoMongoDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:38:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoMongoDB\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoMongoDB\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:35:28.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoMongoDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\appsettings.json",
+              "RelativeToolTip": "DemoMongoDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T11:17:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DemoMongoDB\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DemoMongoDB\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:14:47.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Entities\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DemoMongoDB\\Entities\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\DemoMongoDB\\DemoMongoDB\\Entities\\WeatherForecast.cs",
+              "RelativeToolTip": "DemoMongoDB\\Entities\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:07:25.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
